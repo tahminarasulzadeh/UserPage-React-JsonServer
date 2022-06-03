@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "name": "James",
+      "email": "Jamess@gmail.com",
+      "contact": "088748484",
+      "address": "USA",
+      "": "",
+      "id": 1
+    },
+    {
+      "name": "Max",
+      "email": "max@gmail.com",
+      "contact": "5766864747855",
+      "address": "UK",
+      "": "",
+      "id": 2
+    },
+    {
+      "name": "Sabrina",
+      "email": "sabrina@gmail.com",
+      "contact": "574849374",
+      "address": "Italy",
+      "": "",
+      "id": 3
+    },
+    {
+      "name": "Johnny",
+      "email": "deep@gmail.com",
+      "contact": "4568953256",
+      "address": "USA",
+      "": "",
+      "id": 4
+    }
+  ]
+}
